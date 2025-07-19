@@ -1,1 +1,1 @@
-* Day 1 :[Data Visualization](
+* Day 1 :[Data Visualization]()
